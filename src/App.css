@@ -1,0 +1,32 @@
+#tokicLogo {
+  margin-top: -20px;
+  margin-left: 140px;
+}
+
+.navbar {
+  height: 125px;
+}
+
+.mymodal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  border: 1px solid black;
+  background: #fff;
+  overflow: auto;
+  border-radius: 4px;
+  outline: none;
+  padding: 20px;
+}
+
+h2 {
+  text-align: center;
+}
+
+body {
+  font-family: Roboto, sans-serif;
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,21 @@
+.couponGroup {
+  display: none;
+}
+
+.showCoupon {
+  display: block;
+}
+
+.firstDiv {
+  width: auto;
+  float:left;
+  height:100px;
+  margin:10px;
+}
+
+.secondDiv {
+  width: auto;
+  float:left;
+  height:auto;
+  margin:10px;
+}
