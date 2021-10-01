@@ -1,3 +1,10 @@
+# Not a finished app
+
+TODO:
+- validation
+- coupon add, doesn't validate it and throws a NaN
+- doesn't show all service items at last screen
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
